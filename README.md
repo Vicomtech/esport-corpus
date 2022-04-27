@@ -14,7 +14,8 @@ Released May, 2018
     3. [Other annotations](#other-annotations)
 4. [License](#license)
 5. [Reference](#reference)
-6. [Contact](#contact)
+6. [Download](#download)
+7. [Contact](#contact)
 
 * * *
 
